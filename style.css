@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Girassol', cursive;
+    background-image: url("https://i.pinimg.com/originals/05/3f/fd/053ffdcbadba8e15a0147ce01f993c9d.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+#color-overlay {
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color: rgb(192, 20, 20);
+    height: 100%;
+}
+
+#text-bg {
+    line-height: 100vh;
+    font-size: 90px;
+    margin: 0;
+}
+
+h1{
+    font-size: 100px;
+}
